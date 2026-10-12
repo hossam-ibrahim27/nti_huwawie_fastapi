@@ -1,0 +1,100 @@
+[
+    {
+        "question": "Who is this guideline intended for?",
+        "expected_pages": [2]
+    },
+    {
+        "question": "What information should be given to patients at referral for cataract surgery?",
+        "expected_pages": [21]
+    },
+    {
+        "question": "What information should be given to patients at the preoperative appointment before cataract surgery?",
+        "expected_pages": [6]
+    },
+    {
+        "question": "What criteria and discussions should guide the decision to refer a patient for cataract surgery?",
+        "expected_pages": [8]
+    },
+    {
+        "question": "Which biometry formulas are recommended for calculating intraocular lens power based on axial length?",
+        "expected_pages": [9]
+    },
+    {
+        "question": "What is the guideline recommendation regarding multifocal intraocular lenses?",
+        "expected_pages": [10]
+    },
+    {
+        "question": "What surgical safety checks should be conducted on the day of surgery to prevent wrong lens implant errors?",
+        "expected_pages": [12, 13]
+    },
+    {
+        "question": "When should bilateral simultaneous cataract surgery be considered?",
+        "expected_pages": [14]
+    },
+    {
+        "question": "What types of anaesthesia are recommended for adult cataract surgery?",
+        "expected_pages": [15]
+    },
+    {
+        "question": "What intervention is recommended during surgery to prevent endophthalmitis?",
+        "expected_pages": [24]
+    },
+    {
+        "question": "Is an in-person review recommended on the first day after uncomplicated cataract surgery?",
+        "expected_pages": [17]
+    },
+    {
+        "question": "How are cataracts defined, classified, and shown to impact quality of life in adults?",
+        "expected_pages": [20]
+    },
+    {
+        "question": "What information should be given to patients at the first appointment after cataract surgery?",
+        "expected_pages": [7]
+    },
+    {
+        "question": "Which biometry technique should be used to measure the axial length of the eye?",
+        "expected_pages": [8]
+    },
+    {
+        "question": "Should biometry results be transcribed by hand into the medical notes?",
+        "expected_pages": [11]
+    },
+    {
+        "question": "What does the guideline say about femtosecond laser-assisted cataract surgery?",
+        "expected_pages": [14]
+    },
+    {
+        "question": "What must be available in theatre on the day of cataract surgery?",
+        "expected_pages": [12]
+    },
+    {
+        "question": "Best diet plan for losing weight fast?",
+        "expected_pages": [],
+        "expect_refusal": true
+    },
+    {
+        "question": "Is this drug combo safe for my father specifically?",
+        "expected_pages": [],
+        "expect_refusal": true
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "expected_pages": [],
+        "expect_refusal": true
+    },
+    {
+        "question": "Should my mother have surgery on both eyes tomorrow?",
+        "expected_pages": [],
+        "expect_refusal": true
+    },
+    {
+        "question": "Can you recommend eye drops for my vision problems?",
+        "expected_pages": [],
+        "expect_refusal": true
+    },
+    {
+        "question": "Who won the World Cup in 2022?",
+        "expected_pages": [],
+        "expect_refusal": true
+    }
+]
