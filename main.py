@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routes import ask, base , data , detect
+from routes import ask, base , data , detect , transcribe
 
-app = FastAPI(title="FastAPI Backend", description="FastAPI Backend", version="1.0.0")
+app = FastAPI(title="Lumina Model", description="FastAPI Backend for Lumina Model", version="1.0.0")
 
 app.add_middleware(
     CORSMiddleware,
@@ -16,3 +16,4 @@ app.include_router(base.baseRoute)
 app.include_router(data.dataRoute)
 app.include_router(ask.askRoute)
 app.include_router(detect.detectRoute)
+app.include_router(transcribe.transcribeRoute)
